@@ -59,12 +59,12 @@ tags: navItem
 
 <section class="filterable">
   <div class="filters">
-    <button class="button active" data-borough="all">all</button>
-    <button class="button" data-borough="Bronx">Bx</button>
-    <button class="button" data-borough="Brooklyn">Bk</button>
-    <button class="button" data-borough="Manhattan">M</button>
-    <button class="button" data-borough="Queens">Q</button>
-    <button class="button" data-borough="Staten Island">S</button>
+    <button class="button active" data-type="all">all</button>
+    <button class="button" data-type="Bronx">Bx</button>
+    <button class="button" data-type="Brooklyn">Bk</button>
+    <button class="button" data-type="Manhattan">M</button>
+    <button class="button" data-type="Queens">Q</button>
+    <button class="button" data-type="Staten Island">S</button>
   </div>
   <div class="showing">
     <p>Showing: <span id="show-text"></span></p>
